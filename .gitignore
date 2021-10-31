@@ -1,0 +1,6 @@
+*.log
+.env
+*.xlsx
+
+**/logs
+**/.ipynb_checkpoints
